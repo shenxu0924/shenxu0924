@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f803ee6-60ba-4ad3-9410-3b89844afd8a" name="默认的" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="package_json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>type</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/banzou.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/banzou/BanzouSection.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/diange/DiangeSection.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianVideo.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianDaohang.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/tuijian.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/dangqian.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/dangqian/DangqianSection.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/dangqian/DangqianFooter.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/router/index.js" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/bang.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/bang/BangHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/bang/BangSection.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/static/package.json" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/guanzhu/GuanzhuSection.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/guanzhu/GuanzhuHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/guanzhu.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianFooter.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/dangqian/DangqianHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/diange/DiangeHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/xiaoxi/XiaoxiHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/haoyou/HaoyouHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/fujin/FujinHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/banzou/BanzouHeader.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/haoyou.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/haoyou/HaoyouSection.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/faxian.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianHeaderTwo.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/fujin.vue" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/static/data.json" />
+        <option value="$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/fujin/FujinSection.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianVideo.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianHeader.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/diange/DiangeSection.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianHeaderTwo.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianMain.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/guanzhu/GuanzhuHeader.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/guanzhu/GuanzhuSection.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeFooter.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeHeader.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeSectionOne.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeSectionThree.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeSectionTwo.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/xiaoxi/XiaoxiHeader.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/PublicFooter.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/pages/bang.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/pages/dangqian.vue" />
+        <option value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/banzou/BanzouSection.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="12" />
+    <option name="y" value="22" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kmusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kmusic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kmusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kmusic" type="462c0819:PsiDirectoryNode" />
+              <item name="Project source code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kmusic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kmusic" type="462c0819:PsiDirectoryNode" />
+              <item name="Project source code" type="462c0819:PsiDirectoryNode" />
+              <item name="kmusic-webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/第三阶段（中）/react" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f803ee6-60ba-4ad3-9410-3b89844afd8a" name="默认的" comment="" />
+      <created>1551354489490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551354489490</updated>
+      <workItem from="1551354579486" duration="1232000" />
+      <workItem from="1551403469616" duration="19844000" />
+      <workItem from="1551509999743" duration="241000" />
+      <workItem from="1551664666106" duration="10278000" />
+      <workItem from="1551689845743" duration="13622000" />
+      <workItem from="1551747636218" duration="4759000" />
+      <workItem from="1551753831953" duration="5790000" />
+      <workItem from="1551873202920" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55818000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2470238" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="调试" order="7" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3327674" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="找到" order="8" weight="0.32843137" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/xiaoxi/XiaoxiHeader.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeHeader.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/haoyou/HaoyouHeader.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/guanzhu/GuanzhuHeader.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianHeader.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/banzou/BanzouHeader.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/fujin/FujinHeader.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/router/index.js" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/haoyou/HaoyouSection.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/haoyou.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianHeaderTwo.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/faxian.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/guanzhu.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/pages/fujin.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/static/data.json" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/guanzhu/GuanzhuSection.vue" />
+    <entry file="file://$PROJECT_DIR$/yuanma/kmusic-webapp/kmusic-app-ui/src/components/fujin/FujinSection.vue" />
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/bang/BangSection.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3876" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/bang/BangHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/banzou/BanzouHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/dangqian/DangqianSection.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/dangqian/DangqianFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/diange/DiangeSection.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/diange/DiangeHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianNav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianMain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianHeaderTwo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/faxian/FaxianHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/fujin/FujinSection.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/fujin/FujinHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/guanzhu/GuanzhuSection.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/guanzhu/GuanzhuHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/haoyou/HaoyouSection.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/haoyou/HaoyouHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianVideo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/tuijian/TuijianDaohang.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeSectionTwo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeSectionThree.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeSectionOne.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/wode/WodeFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/xiaoxi/XiaoxiSection.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/xiaoxi/XiaoxiHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/pages/bang.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/PublicFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/pages/banzou.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/pages/dangqian.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/dangqian/DangqianHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project source code/kmusic-webapp/kmusic-app-ui/src/components/banzou/BanzouSection.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="255" column="6" selection-start-line="255" selection-start-column="6" selection-end-line="255" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
